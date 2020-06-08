@@ -9,5 +9,6 @@ def fizzbuzz(int)
   elif int % 15 == 0
     "FizzBuzz"
   else
-    return 
+    "na"
+end
   
