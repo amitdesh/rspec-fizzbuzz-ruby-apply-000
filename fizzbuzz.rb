@@ -8,4 +8,6 @@ def fizzbuzz(int)
     "Buzz"
   elif int % 15 == 0
     "FizzBuzz"
-end
+  else
+    return 
+  
